@@ -63,7 +63,7 @@ Sistema CLI (Command Line Interface) em Python com:
 
 ```bash
 # 1. Clone ou baixe o repositório
-git clone https://github.com/gchamps/fatecsbc_linguagemprograma-o1/tree/main/PROJ_EXTENS%C3%83O
+git clone https://github.com/gchamps/fatecsbc_linguagemprograma-o1/tree/main/Projeto_de_extensao/ProjetoAmigoPet
 cd amigopet
 
 # 2. (Opcional) Crie ambiente virtual
