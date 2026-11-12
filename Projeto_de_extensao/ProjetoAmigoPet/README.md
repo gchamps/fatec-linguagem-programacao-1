@@ -63,8 +63,8 @@ Sistema CLI (Command Line Interface) em Python com:
 
 ```bash
 # 1. Clone ou baixe o repositório
-git clone https://github.com/gchamps/fatecsbc_linguagemprograma-o1/tree/main/Projeto_de_extensao/ProjetoAmigoPet
-cd amigopet
+git clone https://github.com/gchamps/fatecsbc_linguagemprograma-1.git
+cd fatecsbc_linguagemprograma-1/Projeto_de_extensao/ProjetoAmigoPet/codigo
 
 # 2. (Opcional) Crie ambiente virtual
 python -m venv venv
@@ -97,13 +97,13 @@ python fase4_persistencia.py
 ## Estrutura do Projeto
 
 ```
-amigopet/
+ProjetoAmigoPet/
 ├── codigo/
 │   ├── fase1_estrutura.py       # Constantes, variáveis, tipos, cálculo de negócio
 │   ├── fase2_cli.py             # Sistema CLI com CRUD, relatórios e alertas
 │   ├── fase3_poo.py             # Classes, herança, encapsulamento, repositórios
 │   └── fase4_persistencia.py   # Persistência CSV/TXT, exceções, startup/shutdown
-|
+│
 └── README.md
 ```
 

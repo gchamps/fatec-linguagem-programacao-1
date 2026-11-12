@@ -1,19 +1,26 @@
-# Linguagem de Programação I
+# 🐍 Linguagem de Programação I — FATEC São Bernardo do Campo
 
-Repositório desenvolvido para a disciplina de Linguagem de Programação I da FATEC São Bernardo do Campo.
+Repositório da disciplina de Linguagem de Programação I (curso de Informática para Negócios, FATEC São Bernardo do Campo), com exercícios de lógica em Python e um projeto de extensão para uma empresa parceira.
 
-## Conteúdo
+## 📂 Conteúdo
 
-### Exercícios
+| Pasta | Descrição |
+|---|---|
+| [`exercicios/`](exercicios/) | Exercícios das aulas (condicionais, laços, funções, validações), cada um em duas versões |
+| [`Projeto_de_extensao/ProjetoAmigoPet/`](Projeto_de_extensao/ProjetoAmigoPet/) | Sistema CLI de gestão de petshop (clientes, pets, agendamentos, precificação e persistência em CSV/TXT), em 4 fases evolutivas |
 
-Exercícios desenvolvidos durante as aulas.
+## 🛠️ Tecnologias
 
-### Projeto de Extensão
+Python 3.11+ (biblioteca padrão) · Git · GitHub
 
-Sistema desenvolvido para a empresa parceira AmigoPet Ltda.
+## ▶️ Como executar
 
-## Tecnologias
+```bash
+git clone https://github.com/gchamps/fatecsbc_linguagemprograma-1.git
+cd fatecsbc_linguagemprograma-1/exercicios
+python Calculadora_de_desconto.py
+```
 
-- Python
-- Git
-- GitHub
+## 👨‍💻 Autor
+
+**Gabriel Champin** — [LinkedIn](https://www.linkedin.com/in/gabrielchampin/) · [GitHub](https://github.com/gchamps)
