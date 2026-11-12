@@ -63,8 +63,8 @@ Sistema CLI (Command Line Interface) em Python com:
 
 ```bash
 # 1. Clone ou baixe o repositório
-git clone https://github.com/gchamps/fatecsbc_linguagemprograma-1.git
-cd fatecsbc_linguagemprograma-1/Projeto_de_extensao/ProjetoAmigoPet/codigo
+git clone https://github.com/gchamps/fatec-linguagem-programacao-1.git
+cd fatec-linguagem-programacao-1/Projeto_de_extensao/ProjetoAmigoPet/codigo
 
 # 2. (Opcional) Crie ambiente virtual
 python -m venv venv

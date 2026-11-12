@@ -16,8 +16,8 @@ Python 3.11+ (biblioteca padrão) · Git · GitHub
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/gchamps/fatecsbc_linguagemprograma-1.git
-cd fatecsbc_linguagemprograma-1/exercicios
+git clone https://github.com/gchamps/fatec-linguagem-programacao-1.git
+cd fatec-linguagem-programacao-1/exercicios
 python Calculadora_de_desconto.py
 ```
 
